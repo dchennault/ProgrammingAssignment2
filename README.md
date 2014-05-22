@@ -1,3 +1,4 @@
+## Read This - DC 5/22/1014
 ### Introduction
 
 This second programming assignment will require you to write an R
