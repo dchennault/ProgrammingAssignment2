@@ -14,7 +14,7 @@ git - the simple guide
 ##git clone username@host:/path/to/repository
 
 #workflow
-###your local repository consists of three "trees" maintained by git. the first one is your Working Directory which holds the actual files. the second one is the Index which acts as a staging area and finally the HEAD which points to the last commit you've made.
+###your local repository consists of three "trees" maintained by git. the first one is your Working Directory which holds ###the actual files. the second one is the Index which acts as a staging area and finally the HEAD which points to the last ###commit you've made.
 
 #add & commit
 ### You can propose changes (add it to the Index) using
